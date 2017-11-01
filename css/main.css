@@ -1,0 +1,75 @@
+/* universal slector*/
+*{
+	font-family: 'Noto Serif', serif;
+padding: 0;
+margin:0;
+outline: none;
+}
+body{
+	margin:0;
+}
+.navbar{
+	margin: 0;
+	padding:0;
+	position: static;
+}
+.navbar ul li{
+	text-align: center;
+	padding: 8px;
+}
+.navbar ul li a{
+	color: white;
+	font-size: 16px;
+	font-weight: 500;
+}
+h2{
+	font-size: 48px;
+	margin:0;
+	text-align: center;
+	font-size:500;
+}
+h2 strong{
+	color:cyan;
+}
+.images .container-fluid{
+	margin: 0;
+}
+ .images .container-fluid .item img{
+	height: 450px;
+}
+.container-fluid  ul li{
+	list-style: none;
+	font-size: 20px;
+}
+.container-fluid  ul li a{
+	color: orange-red;
+}
+.container-fluid p {
+	font-size: 18px;
+	margin-top: 15px;
+	} 
+	.location{
+		margin:0;
+		background-color: green;
+		padding: 10px 0 10px 0;
+
+	}
+	.location h2{
+		text-align: left;
+	}
+	.location img{
+		margin-left: 150px;
+		padding: 15px;
+		height: 300px;
+		width:75%;
+	}
+	address{
+		position: middle;
+		border: 1px solid transparent;
+		border-radius: 10px;
+		background-color: black;
+		color: white;
+		text-align: center;
+		padding: 25px 0 25px 0;
+		font-size: 20px;
+	}
