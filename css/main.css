@@ -47,22 +47,8 @@ h2 strong{
 .container-fluid p {
 	font-size: 18px;
 	margin-top: 15px;
-	} 
-	.location{
-		margin:0;
-		background-color: green;
-		padding: 10px 0 10px 0;
+	}
 
-	}
-	.location h2{
-		text-align: left;
-	}
-	.location img{
-		margin-left: 150px;
-		padding: 15px;
-		height: 300px;
-		width:75%;
-	}
 	/*address{
 		position: middle;
 		border: 1px solid transparent;
